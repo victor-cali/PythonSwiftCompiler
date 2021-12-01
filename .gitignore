@@ -1,0 +1,4 @@
+*.png
+*.drawio
+.vscode/*
+__pycache__/*
